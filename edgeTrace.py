@@ -156,7 +156,7 @@ def visualize_all(original_gray, smoothed, magnitude, direction, thinned):
 
 def main():
     # file name
-    image_path = r"C:\Users\mizna\OneDrive\Documents\image.png"
+    image_path = r"C:\Users\mizna\Downloads\image.png"
     sigma = 1.0                # can be adjusted
 
 
@@ -180,4 +180,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
